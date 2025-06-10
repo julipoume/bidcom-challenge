@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`ButtonLink component snapshot 1`] = `
+<div>
+  <a
+    class="bg-black text-white rounded-[10px] flex items-center gap-2 hidden md:flex w-fit justify-start py-[15px] px-8"
+    href="/test"
+  >
+    <span
+      class="text-sm md:text-base"
+    >
+      Desktop Link
+    </span>
+    <img
+      alt="Arrow"
+      class="ml-2 w-4 h-4"
+      src="/assets/icons/right-arrow.png"
+    />
+  </a>
+</div>
+`;

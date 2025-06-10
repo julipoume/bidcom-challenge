@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`SideDescription snapshot 1`] = `
+<div>
+  <aside
+    class="flex flex-col items-center sm:items-start"
+  >
+    <h2
+      class="font-inter font-normal text-[12px] leading-[18px] sm:text-[14px] sm:leading-[20px] text-black px-[2px] py-[2px] tracking-[3px]"
+    >
+      WELCOME
+    </h2>
+    <h1
+      class=" font-inter font-normal  text-[30px] leading-[36px] text-center tracking-normal sm:text-[48px] sm:leading-[48px] sm:text-left sm:tracking-[0%] text-black mb-4 "
+    >
+      <strong>
+        Hello
+      </strong>
+       World
+    </h1>
+    <p
+      class="font-light text-[16px] leading-[24px] text-[#150142] mb-0 sm:mb-6 max-w-[547px] text-center sm:text-left"
+    >
+      This is a description text.
+    </p>
+  </aside>
+</div>
+`;
