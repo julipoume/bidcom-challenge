@@ -36,7 +36,7 @@ export default async function Page() {
             <ImageCarousel images={images} />
           ) : (
             <img
-              src="/assets/default-image.png"
+              src="/assets/personal-image.png"
               alt="Default image"
               className="mx-auto w-full max-w-[320px] md:max-w-full h-auto"
             />
